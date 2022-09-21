@@ -31,7 +31,7 @@ These are the main technologies we used to contruct the project.
 * ![MongoDB]
 * ![HTML]
 * ![css]
-* + Express!
+* & Express!
 
 ### Brief
 
