@@ -6,7 +6,7 @@ As part of our first CodeClan group project, we were given one week to create a 
 
 ## Contents 
     * Video Walkthrough
-    * TechStack
+    * Built With
     * Brief
     * Challenges
     * Contributors 
@@ -20,7 +20,13 @@ As part of our first CodeClan group project, we were given one week to create a 
 
 Video link: https://youtu.be/G0ezelNYKXU
 
-### Tech Stack
+### Built With
+
+These are the main technologies we used to contruct the project.
+
+* [![React][React.js]][React-url]
+* [![Javascript][Javascript.js]][Javascript-url]
+
 
 ### Brief
 
