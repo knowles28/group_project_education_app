@@ -15,7 +15,8 @@ As part of our first CodeClan group project, we were given one week to create a 
 
 
 ### Video Walkthrough
-⬇️ **Click on the image to launch the video walkthrough!**
+⬇️ **Click on the image to launch the video walkthrough!** ⬇️ 
+
 [![OurWorldVideo](https://img.youtube.com/vi/G0ezelNYKXU/0.jpg)](https://www.youtube.com/watch?v=G0ezelNYKXU)
 
 Video link: https://youtu.be/G0ezelNYKXU
@@ -57,7 +58,9 @@ Now to install all the modules for the client, run this command:
   > npm i
   
 Deployment
-To begin, you'll need to start up the backend server. Open your terminal and type the following command:
+To begin, you'll need to start up the backend server. Open your terminal and type the following commands:
+
+  > cd client
 
   > npm run server:dev ??
   
