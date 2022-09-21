@@ -18,6 +18,8 @@ A full stack React application that allows users to interact with site content t
 
 [![OurWorldVideo](https://img.youtube.com/vi/G0ezelNYKXU/0.jpg)](https://www.youtube.com/watch?v=G0ezelNYKXU)
 
+<br>
+
 
 ## Technologies
 
@@ -31,6 +33,9 @@ These are the main technologies we used to contruct the project.
 * ![HTML]
 * ![css]
 * & Express!
+
+<br>
+
 
 ## Brief
 
@@ -58,6 +63,7 @@ A user should be able to:
 - [ ] Allow users to share information through social media platforms
 
 
+<br>
 
 
 ## Challenges
@@ -66,37 +72,39 @@ A user should be able to:
 * Material UI version issues
 * CSS, React & Material UI compatibility issues
 
+<br>
+
 
 ## Installation
 
 Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git.
-
-git clone git@github.com:knowles28/group_project_education_app
-
 **From Terminal:**
+
+``` git clone git@github.com:knowles28/group_project_education_app ``` 
 
 Once the download has ended, move into the directory named 'client' by running the following command:
 
-  > cd client
+``` cd client ``` 
   
 Now to install all the modules for the client, run this command:
 
-  > npm i
+``` npm i ```
   
-Deployment
+**Deployment**
+
 To begin, you'll need to start up the backend server. Open your terminal and type the following commands:
 
-  > cd client
+``` cd server ```
 
-  > npm run server:dev ??
+``` npm run server:dev  ```
   
 Once the server is running, it's time to start up the front end. To do this, open your terminal in the main project directory, and move into the 'client' directory:
 
-  > cd client
+``` cd client ```
  
 From 'client' run the following terminal command:
 
-  > npm start
+``` npm start ```
   
 Verify it is running correctly by browsing http://localhost:3000
 
