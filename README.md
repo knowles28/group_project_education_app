@@ -29,8 +29,7 @@ These are the main technologies we used to contruct the project.
 * ![Node]
 * ![MaterialUI]
 * ![MongoDB]
-* ![Express]
-* ![GoogleCharts]
+* ![express]
 * ![HTML]
 * ![css]
 
@@ -83,8 +82,8 @@ Verify it is running correctly by browsing http://localhost:3000
 [MaterialUI]:https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
 [MongoDB]:https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [GoogleCharts]:
-[Express]: [https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-)
+[express]:https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+
 
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
