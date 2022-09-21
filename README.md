@@ -22,6 +22,7 @@ As part of our first CodeClan group project, we were given one week to create a 
 Video link: https://youtu.be/G0ezelNYKXU
 
 ### Built With
+---
 
 These are the main technologies we used to contruct the project.
 
@@ -35,20 +36,22 @@ These are the main technologies we used to contruct the project.
 * & Express!
 
 ### Brief
+---
 
 
 
 ### Challenges
+---
 
 ### Installation
-
-Installation
+---
 
 Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git.
 
 git clone git@github.com:knowles28/group_project_education_app
 
 **From Terminal:**
+
 Once the download has ended, move into the directory named 'client' by running the following command:
 
   > cd client
@@ -75,6 +78,8 @@ From 'client' run the following terminal command:
 Verify it is running correctly by browsing http://localhost:3000
 
 ### Contributors
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
