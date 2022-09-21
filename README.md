@@ -36,25 +36,28 @@ Note: This setup tutorial assumes that you already have installed a package mana
 
 git clone git@github.com:knowles28/group_project_education_app
 
+**From Terminal:**
 Once the download has ended, move into the directory named 'client' by running the following command:
 
-  cd client
+  > cd client
   
 Now to install all the modules for the client, run this command:
 
-  npm i
+  > npm i
   
 Deployment
 To begin, you'll need to start up the backend server. Open your terminal and type the following command:
 
-  npm run server:dev ??
+  > npm run server:dev ??
   
 Once the server is running, it's time to start up the front end. To do this, open your terminal in the main project directory, and move into the 'client' directory:
 
-  cd client
+  > cd client
+ 
 From 'client' run the following terminal command:
 
-  npm start
+  > npm start
+  
 Verify it is running correctly by browsing http://localhost:3000
 
 ### Contributors
