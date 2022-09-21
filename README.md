@@ -68,9 +68,11 @@ A user should be able to:
 
 ## Challenges
 
-* File Structure / Naming Conventions
-* Material UI version issues
-* CSS, React & Material UI compatibility issues
+Here are some of the things we found difficult:
+
+* File structuring & naming conventions as the project scaled up in size.
+* Material UI version issues for multiple developers on the same team.
+* CSS, React & Material UI - compatibility problems with components using CSS .
 
 <br>
 
