@@ -1,28 +1,25 @@
 # OurWorld: Education App
-
-As part of our first CodeClan group project, we were given one week to create a full stack education app.
-
+A full stack React application that allows users to interact with site content through their unique profile, tracking quiz scores and saving favourite articles.
 
 
-## Contents 
-    * Video Walkthrough
-    * Built With
-    * Brief
-    * Challenges
-    * Contributors 
+### Contents 
+
+* [Video](#video)
+* [Technologies](#technologies)
+* [Brief](#brief)
+* [Challenges](#challenges)
+* [Installation](#installation)
+
+<br>
 
 
-
-
-## Video Walkthrough
-⬇️ **Click on the image to launch the video walkthrough!** ⬇️ 
+## Video
+⬇️ **Click on the preview image to launch the video walkthrough of the project site! [YouTube](https://youtu.be/G0ezelNYKXU)** ⬇️ 
 
 [![OurWorldVideo](https://img.youtube.com/vi/G0ezelNYKXU/0.jpg)](https://www.youtube.com/watch?v=G0ezelNYKXU)
 
-Video link: https://youtu.be/G0ezelNYKXU
 
-### Built With
----
+## Technologies
 
 These are the main technologies we used to contruct the project.
 
@@ -35,16 +32,42 @@ These are the main technologies we used to contruct the project.
 * ![css]
 * & Express!
 
-### Brief
----
+## Brief
+
+Below is the tailored brief we followed for the project:
+
+**Abstract**
+
+The BBC are looking to improve their online offering of educational content by developing some interactive browser applications that display information in a fun and interesting way. Your task is to make an a Minimum Viable Product or *prototype* to put forward to them - this may only be for a small set of information, and may only showcase some of the features to be included in the final app. The target audience of the app will be adults.
+
+**MVP**
+
+A user should be able to:
+
+- view educational content on global environmental topics
+- view collections of different subjects and work through the pages to learn
+- save progress on current learning e.g. mark a topic as read
+- test their knowledge with interactive quizzes
+
+**Extensions**
+
+- [x] A dashboard that tracks the users learning with charts/graphs, based on their interactions with the website
+- [x] Use new React libraries and components
+- [ ] Use external api to show the user realtime information
+- [x] Multiple users
+- [ ] Allow users to share information through social media platforms
 
 
 
-### Challenges
----
 
-### Installation
----
+## Challenges
+
+* File Structure / Naming Conventions
+* Material UI version issues
+* CSS, React & Material UI compatibility issues
+
+
+## Installation
 
 Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git.
 
@@ -76,8 +99,6 @@ From 'client' run the following terminal command:
   > npm start
   
 Verify it is running correctly by browsing http://localhost:3000
-
-### Contributors
 
 
 
