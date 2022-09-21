@@ -24,8 +24,19 @@ Video link: https://youtu.be/G0ezelNYKXU
 
 These are the main technologies we used to contruct the project.
 
-* [![React][React.js]][React-url]
-* [![Javascript][Javascript.js]][Javascript-url]
+* ![React.js]
+* ![Javascript]
+* ![Node]
+* ![MaterialUI]
+* ![MongoDB]
+* ![Express]
+* ![GoogleCharts]
+* ![html]
+* ![css]
+
+
+
+* ![html]
 
 
 ### Brief
@@ -69,5 +80,14 @@ Verify it is running correctly by browsing http://localhost:3000
 ### Contributors
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+
+[React.js]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Javascript]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Node]:https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[MaterialUI]:https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[MongoDB]:	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[Express]:https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[html]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+
